@@ -18,7 +18,7 @@ development:
   adapter: mysql
   encoding: utf8
   reconnect: false
-  database: user_authentication_development
+  database: userauthentication_development
   username:
   password:
 
@@ -29,7 +29,7 @@ test:
   adapter: mysql
   encoding: utf8
   reconnect: false
-  database: user_authentication_test
+  database: userauthentication_test
   username:
   password:
 
@@ -37,7 +37,7 @@ production:
   adapter: mysql
   encoding: utf8
   reconnect: false
-  database: user_authentication_production
+  database: userauthentication_production
   username:
   password:
 
